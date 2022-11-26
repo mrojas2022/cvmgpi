@@ -15,7 +15,8 @@ public class Cvmgpi {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Versión 1 Master");
+        System.out.println("version 1 desa1");
+        System.out.println("Versión 1 Master ");
     }
     
 }
